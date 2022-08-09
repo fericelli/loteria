@@ -7,7 +7,7 @@
 		private $Conectar;
 		
 		function Conexion(){
-			$this->Conexiones("localhost","root","corocorito","apuestas");
+			$this->Conexiones("localhost","u956446715_loto","99d^hrSgV0p=","u956446715_lotomiranda");
 		}
 		function Conexiones($S,$U,$C,$B){
 			$this->Servidor = $S;
